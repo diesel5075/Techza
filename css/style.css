@@ -1,0 +1,1183 @@
+/* navbar */
+img.img-size {
+    max-width: 115px;
+}
+
+.make-button {
+    border-radius: 3px;
+    background: #002699;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+
+}
+
+li.nav-item a {
+    color: #010E37;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.m-r {
+    margin-right: 10%;
+}
+
+.make-button:hover {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+/* hero section */
+.hero {
+    background-image: url("https://favdevs.com/demos/wp/techza/wp-content/uploads/2023/04/hero-bg-v10.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    overflow: hidden;
+    width: 100%;
+    height: 900px;
+    display: flex;
+    background-position: 74%;
+    align-items: center;
+    margin-bottom: 115px;
+}
+
+.heromain {
+    max-width: 747px;
+}
+
+p.hero-text {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+h1.hero-heading {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 86px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+span.hero-spn {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    max-width: 722.94px;
+
+}
+
+.hero-button {
+    border-radius: 3px;
+    background: #002699;
+    padding: 5px 30px;
+    color: white;
+}
+
+.hero-button {
+    border-radius: 3px;
+    background: #002699;
+    padding: 5px 30px;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+button#dropdownMenuButton:hover {
+    border: 1px solid;
+    border-radius: 5px;
+    color: white;
+}
+
+/* Our latest services */
+p.our-text.text-center {
+    color: #002699;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+h2.our-heading.text-center {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.8px;
+    max-width: 715.22px;
+}
+
+.our-img-size {
+    width: 80%;
+}
+
+.our-box {
+    display: flex;
+    align-items: start;
+    padding: 39px 40px 40px 40px;
+}
+
+h2.our-box-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.84px;
+}
+
+p.our-box-text {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.our-l {
+    margin-bottom: 120px;
+}
+
+.our-box-img {
+    margin-right: 20px;
+}
+
+/*  Discover our company */
+.discover {
+    background-color: #F7F7F9;
+    padding: 80px 0;
+    margin-bottom: 80px;
+}
+
+.discover-right {
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p.d-text {
+    color: #002699;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+h2.d-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 67px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 73.7px;
+    max-width: 536px;
+}
+
+p.d-dis {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29.99px;
+    max-width: 536px;
+}
+
+.lr-button {
+    border-radius: 3px;
+    background: #002699;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+
+}
+
+.lr-button:hover {
+    border: 1px solid;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Fun facts about our company */
+.fun-f {
+    margin: 120px 0;
+}
+
+p.fun-f-text {
+    color: #002699;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 0 auto;
+    max-width: 715.22px;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+
+h2.fun-i-heading {
+    color: #010E37;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.94px;
+    max-width: 715.22px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+p.ff-num {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 86px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 91.93px;
+}
+
+p.ff-text {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    max-width: 214px;
+}
+
+.ff-box {
+    display: flex;
+    padding: 21px 1px 21px 60px;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+/* Fun facts about our company  secound */
+.fun-sec {
+    margin: 120px 0;
+}
+
+p.fun-sec-text {
+    color: #002699;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+h2.fun-sec-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.94px;
+}
+
+button.btn.cu-button {
+    border-radius: 3px;
+    background: #002699;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+span.fun-spn {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29.99px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+i.fa-solid.fa-headphones.fun-box-icon {
+    background-color: blue;
+    padding: 15px;
+    border-radius: 50%;
+    color: white;
+    font-size: 25px;
+    margin-right: 12px;
+}
+
+.fun-box-inner {
+    display: flex;
+    align-items: start;
+    margin-bottom: 24px;
+    border-radius: 10px;
+    border: 1px solid rgba(18, 104, 251, 0.10);
+    padding: 20px;
+}
+
+button.btn.cu-button:hover {
+    border: 1px solid;
+    color: black;
+    background: transparent;
+}
+
+/* Our work process */
+.ourwork {
+    background: #002699;
+    padding: 120px 0;
+    margin: 120px 0;
+}
+
+p.ourworktext {
+    color: #FFF;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+h2.ourworkheading {
+    color: #FFF;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.94px;
+    margin: 0 auto;
+    max-width: 768px;
+    margin-bottom: 80px;
+}
+
+.our-w-main-box {
+    display: flex;
+    width: 439.98px;
+    min-height: 1px;
+    padding: 0px 82px 0px 12px;
+    align-items: flex-start;
+}
+
+h2.o-w-b-heading {
+    color: #FFF;
+    font-family: Cabin;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.ourworkbox {
+    display: flex;
+    align-items: center;
+}
+
+p.o-w-b-text {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 25px;
+    line-height: 30px;
+}
+
+.icon-o-work i.fa-solid.fa-check {
+    background-color: #1268FB;
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 24px;
+}
+
+.v-a-m-button:hover {
+    border: 1px solid;
+    cursor: pointer;
+}
+
+/* Meet our team */
+.meet {
+    margin-bottom: 120px;
+}
+
+.v-a-m-button {
+    border-radius: 3px;
+    background: #002699;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+p.meet-text {
+    color: #002699;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    padding-bottom: 23px;
+}
+
+h2.meet-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    max-width: 485.95px;
+    font-weight: 700;
+    padding-bottom: 17px;
+    line-height: 74.8px;
+}
+
+p.meet-spn {
+    color: #343E5F;
+    font-family: Inter;
+    padding-bottom: 30px;
+    font-size: 18px;
+    font-style: normal;
+    max-width: 481.13px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+h2.meet-use-name {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+p.course {
+    color: rgba(1, 14, 55, 0.80);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.meet-box i {
+
+    padding: 8px 8.87px 8px 8.88px;
+    justify-content: center;
+    border-radius: 100px;
+    margin-right: 8px;
+    background: #F7F7F9;
+    align-items: center;
+}
+
+/* Choose your best plan */
+.chooseplan {
+    padding: 115px 0px 120px 0px;
+    background: #F7F7F9;
+    margin-bottom: 120px;
+}
+
+p.choosetetx {
+    color: #002699;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 23px;
+    line-height: 24px;
+}
+
+h2.chooseplan-heading {
+    color: #010E37;
+    text-align: center;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.8px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    max-width: 636px;
+}
+
+.switch-mk {
+    text-align: center;
+    font-size: 30px;
+    color: #010E37;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+
+}
+
+.icon-m i {
+    background-color: #002699;
+    color: white;
+    padding: 7px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.icon-m p {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+p.ch-plan-name {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+h2.ch-plan-price {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 74.8px;
+    margin-bottom: 40px;
+    width: 224px;
+    height: 74.8px;
+}
+
+sub,
+sup {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 16px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1px;
+}
+
+.choose-pan-box {
+    border-radius: 10px;
+    border: 1px solid #E1E1E1;
+    background: #F7F7F9;
+    padding: 13px;
+}
+
+button.btn.mk-plan-button {
+    padding: 12.91px 39.2px 12.89px 39.8px;
+    border-radius: 3px;
+    border: 3px solid #002699;
+    background: #FFF;
+    display: inline-block;
+    color: #002699;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+h2.per-m {
+    margin-right: 19px;
+    font-size: 18px;
+}
+
+.choose-pan-box:hover,
+.choose-pan-box:hover .icon-m p,
+.choose-pan-box:hover h2.ch-plan-price,
+.choose-pan-box:hover sub,
+sup,
+.choose-pan-box:hover p.ch-plan-name {
+    cursor: pointer;
+    border-radius: 10px;
+    background: #002699;
+    color: white
+}
+
+/* Our latest news */
+p.our-n-text {
+    color: #002699;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    max-width: 687px;
+}
+
+h2.our-n-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 700;
+    max-width: 687px;
+    line-height: 74.8px;
+}
+
+.our-n-mk-button {
+    border-radius: 3px;
+    background: #002699;
+    color: white;
+}
+
+.our-n-mk-button:hover {
+    cursor: pointer;
+    border: 1px solid;
+
+}
+
+.our-n-text-main {
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.box-in-details {
+    padding: 30px;
+    border: 1px solid #E1E1E1;
+    border-radius: 0 0 10px 10px;
+}
+
+p.our-date {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+p.our-time {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+h2.our-heading {
+    color: #010E37;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.84px;
+}
+
+.our-n-button-mk {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+.our-img img {
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.our-img {
+    height: 309px;
+    max-width: 100%;
+}
+
+/* Get In Touch */
+.get-t {
+    background: #F7F7F9;
+
+}
+
+.sub-form {
+    position: absolute;
+    right: -125%;
+    top: 14%;
+    border-radius: 10px;
+    display: flex;
+    padding: 30px 30px 16px 30px;
+    flex-direction: column;
+    background: #FFF;
+    box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.06);
+}
+
+p.g-text {
+    color: #002699;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+}
+
+h2.g-heading {
+    color: #010E37;
+    /* max-width: 365px; */
+    font-family: Cabin;
+    font-size: 47px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 51.7px;
+    margin-bottom: 40px;
+}
+
+p.right-g-text {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+h2.right-g-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 45.6px;
+}
+
+.right-g-in {
+    margin-right: 39px;
+}
+
+.right-gt {
+    padding: 80px 0;
+    position: relative;
+    margin-left: 300px;
+}
+
+
+
+/* con box */
+.cn-icon {
+    border-radius: 100px;
+    background: #1268FB;
+    display: flex;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-right: 10px;
+}
+
+.cn-main-box {
+    border-radius: 10px;
+    display: flex;
+    padding: 20px 12px 20px 20px;
+    align-items: center;
+    background: #F7F7F9;
+}
+
+p.cn-text.m-0 {
+    color: rgba(1, 14, 55, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+h2.cn-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.cn-box {
+    margin: 80px 0;
+}
+
+/* footer */
+p.footer-dis {
+    color: #343E5F;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 407.98px;
+}
+
+.footer-heading {
+    color: #010E37;
+    font-family: Cabin;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.icon-mk {
+    border-radius: 100px;
+    background: rgba(1, 14, 55, 0.10);
+    width: 30px;
+    padding: 8px;
+    margin-right: 15px;
+}
+
+/* mq */
+@media (max-width:1024px) {
+    .heromain {
+        margin: 0 auto;
+        text-align: center;
+        max-width: 676px;
+    }
+
+    h1.hero-heading {
+        font-size: 60px;
+    }
+
+    .span.hero-spn {
+        max-width: 676px;
+    }
+
+    .d-m {
+        width: 100%;
+        display: inline-grid;
+
+    }
+
+    /* .dropdown-toggle::after {
+        margin-left: 67%
+    } */
+
+    h2.our-heading.text-center {
+        font-size: 48px;
+        max-width: 786px;
+    }
+
+    .our-box {
+        width: 100%;
+    }
+
+    .di-img {
+        padding: 15px;
+    }
+
+    .discover-right {
+        text-align: center;
+    }
+
+    h2.d-heading {
+        font-size: 47px;
+    }
+
+    h2.fun-sec-heading {
+        font-size: 38px;
+        text-align: center;
+        line-height: 1;
+        margin-bottom: 20px;
+    }
+
+    .ourwork {
+        padding: 80px 0;
+    }
+
+    h2.ourworkheading {
+        font-size: 48px;
+        max-width: 876px;
+    }
+
+    p.meet-text {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    h2.meet-heading {
+        text-align: center;
+        font-size: 36px;
+        line-height: 1.2;
+        margin: 0 auto;
+    }
+
+    p.meet-spn {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .meet-button {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+}
+
+@media (max-width:1199px) {
+    .get {
+        width: 960px !important;
+        margin: 0 auto !important;
+        padding: 0 12px;
+    }
+    .sub-form
+    {
+        position: static;
+    }
+    .right-gt{
+        text-align: center;
+    }
+   .right-g{
+    display: flex;
+    justify-content: center;
+   }
+}
+
+@media (max-width:767px) {
+    .border-none {
+        border: none !important;
+    }
+
+    .di-img {
+        padding: 0px 62px 30px;
+    }
+
+    .discover-right {
+        padding: 0 62px;
+    }
+
+    /* .dropdown-toggle::after {
+        margin-left: 57%;
+    } */
+
+    h2.fun-i-heading {
+        font-size: 48px;
+        line-height: 1;
+    }
+
+    .ff-box {
+        margin-bottom: 24px;
+        align-items: start;
+        padding: 31px;
+    }
+
+    h2.fun-i-heading {
+        font-size: 48px;
+    }
+
+    .ourwork {
+        padding: 80px 0;
+    }
+
+    h2.ourworkheading {
+        font-size: 48px;
+        line-height: 1.2;
+        margin-bottom: 60px;
+    }
+
+    p.meet-text {
+        text-align: center;
+    }
+
+    h2.meet-heading {
+        text-align: center;
+        font-size: 44px;
+        line-height: 1.2;
+    }
+
+    p.meet-spn {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .meet-button {
+        text-align: center;
+        margin: 37px 0 48px 0;
+    }
+
+    .left-gt img {
+        display: none;
+    }
+    .sub-form{
+        width: fit-content;
+    }
+}
+
+@media (max-width:390px) {
+    h1.hero-heading {
+        font-size: 44px;
+    }
+
+    .heromain {
+        margin: 0 auto;
+        text-align: center;
+        max-width: 360px;
+    }
+
+    .dropdown-toggle::after {
+        margin-left: 36%;
+    }
+
+    h2.our-heading.text-center {
+        font-size: 36px;
+        line-height: 1;
+    }
+
+    .di-img {
+        padding: 15px;
+    }
+
+    .discover-right {
+        padding: 0 15px;
+    }
+
+    h2.d-heading {
+        font-size: 36px;
+        line-height: 1;
+        text-align: center;
+    }
+
+    p.d-dis {
+        text-align: center;
+
+    }
+
+    h2.fun-i-heading {
+        font-size: 36px;
+        line-height: 1;
+    }
+
+    .ff-box {
+        align-items: start;
+        margin-bottom: 24px;
+        padding: 31px;
+    }
+
+    p.ff-text {
+        max-width: 298px;
+    }
+
+    h2.fun-sec-heading {
+        text-align: center;
+        font-size: 36px;
+        line-height: 1.5;
+    }
+
+    .fun-sec-text {
+        text-align: center;
+    }
+
+    .fun-spn {
+        text-align: center;
+    }
+
+    .ff-main-button {
+        display: flex;
+        justify-content: center;
+    }
+
+    .ourwork {
+        padding: 60px 0;
+    }
+
+    h2.ourworkheading {
+        font-size: 36px;
+        line-height: 1.2;
+        margin-bottom: 39px;
+        margin-bottom: 17px;
+    }
+
+    p.meet-text {
+        text-align: center;
+    }
+
+    h2.meet-heading {
+        text-align: center;
+        font-size: 36px;
+        line-height: 1.2;
+    }
+
+    p.meet-spn {
+        text-align: center;
+    }
+
+    .meet-button {
+        text-align: center;
+        margin: 37px 0 42px 0;
+
+    }
+
+    h2.chooseplan-heading {
+        font-size: 36px;
+        line-height: 1;
+        margin-bottom: 38px
+    }
+
+    .getbutton {
+        text-align: center;
+    }
+
+    .chooseplan {
+        padding: 60px 0;
+    }
+
+    p.our-n-text {
+        text-align: center;
+    }
+
+    h2.our-n-heading {
+        text-align: center;
+        font-size: 33px;
+        margin-bottom: 24px;
+        line-height: 1.2;
+    }
+
+    .our-n-text-main {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+    }
+
+    .our-img {
+        height: 188.45px;
+    }
+
+    h2.get-in-heading {
+        font-size: 33px;
+        text-align: center;
+        line-height: 1.2;
+    }
+
+    .get-in-r {
+        margin-right: 0;
+    }
+}
+
+@media (max-width:576px) {
+    .choose-pan-box {
+        padding: 15px;
+    }
+
+    .box-our {
+        padding: 15px;
+    }
+}
